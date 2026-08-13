@@ -4,9 +4,7 @@
   padding: 0;
 }
 #maincontainer {
-
-
-    background-image: url("./bg.png");
+    background-image: url("/img/bg.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
